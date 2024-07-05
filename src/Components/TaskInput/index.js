@@ -2,7 +2,7 @@ import { MdDelete } from "react-icons/md";
 import { GoIssueClosed } from "react-icons/go";
 import { IoIosCloseCircleOutline } from "react-icons/io";
 import { CiEdit } from "react-icons/ci";
-
+import 'animate.css';
 import "./index.css"
 
 const TaskInput =(props)=>{
